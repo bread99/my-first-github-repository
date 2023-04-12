@@ -11,7 +11,7 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 
 ## Contributors
 
-- FE: 김코딩, 박해커
+- FE: 김코딩, 박해커, 하나둘
 - BE: 나서버, 최디비
 
 ## Project Wiki
